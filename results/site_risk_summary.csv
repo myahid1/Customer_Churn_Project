@@ -1,0 +1,4 @@
+Site_Risk_Group,customer_count,churned_customers,churn_rate
+High site count,129,86,66.66666666666666
+Low site count,454,11,2.4229074889867843
+Medium site count,317,53,16.7192429022082

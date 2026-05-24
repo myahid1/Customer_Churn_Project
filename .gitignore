@@ -1,0 +1,41 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables / secrets
+.env
+*.env
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.log
+*.tmp
+
+# Large or raw local data files
+data/raw/
+data/temp/
+
+# Model files
+*.pkl
+*.joblib
+*.sav
