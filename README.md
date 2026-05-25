@@ -76,7 +76,6 @@ A more detailed explanation of the project findings, SQL analysis, machine learn
 final_report.md
 ```
 
-```md
 ## How to Run This Project
 
 1. Clone this repository:
