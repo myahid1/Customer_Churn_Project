@@ -77,4 +77,6 @@ final_report.md
 ```
 
 ## Getting Started
+```
 pip install -r requirements.txt
+```
