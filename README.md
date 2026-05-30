@@ -76,32 +76,5 @@ A more detailed explanation of the project findings, SQL analysis, machine learn
 final_report.md
 ```
 
-## How to Run This Project
-
-1. Clone this repository:
-
-```bash
-git clone <https://github.com/myahid1/customer_churn_project/tree/main>
-```
-
-2. Navigate into the project folder:
-
-```bash
-cd churn_project
-```
-
-3. Install the required Python packages:
-
-```bash
+## Getting Started
 pip install -r requirements.txt
-```
-
-4. Open the notebook:
-
-```text
-notebooks/customer_churn_analysis.ipynb
-```
-
-5. Run the notebook cells from top to bottom.
-
-The notebook includes the full workflow, including data inspection, exploratory data analysis, SQL analysis, machine learning model training, model evaluation, and exported results.
